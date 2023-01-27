@@ -33,4 +33,7 @@ module.exports = {
     ];
     return config
   },
+  "features": {
+    previewMdx2: true,
+  }
 }
